@@ -1,0 +1,20 @@
+.pic {
+    height: 300px;
+    width: 300px;
+}
+.container{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    gap:25px;
+}
+body{
+  
+}
+.flower{
+    height:400px;
+    width:300px;
+}
+.tiet{
+    height:500px;
+    width:300px;
+}
